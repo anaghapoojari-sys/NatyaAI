@@ -1,3 +1,16 @@
 Project Title: Real-Time Multimodal Posture Correction, Rhythm Alignment, and Semantic Translation System for Bharatanatyam Dance.
 
-Objective: To develop an intelligent, real-time computer vision and audio processing system that evaluates a Bharatanatyam dancer's physical geometry (Nritya), matches their movements to rhythmic audio patterns (Nattuvangam/Sollukattu), and translates the expressive hand gestures and facial features (Abhinaya) into text-based semantic meanings.
+Objective: To develop an intelligent, real-time computer vision and audio processing system that evaluates a Bharatanatyam dancer's physical geometry (Nritya), matches their movements to rhythmic audio patterns (Nattuvangam/Sollukattu), and translates the expressive hand gestures and facial features (Abhinaya) into text-based semantic meanings.'
+
+
+
+Project Intern — Homeland Security & Smart Cities
+Bharat Electronics Limited (BEL), Bangalore | June 2026 – July 2026
+
+Selected by senior departmental leadership to spearhead the R&D of a multimodal computer vision and audio signal processing system for real-time human movement analysis.
+
+Engineered a real-time posture correction framework using Google MediaPipe (Pose, Hands, Face Blendshapes) and optimized temporal sequence alignment using FastDTW to analyze complex human geometry.
+
+Developed an audio processing pipeline using Librosa (STFT and HPSS) to isolate high-frequency percussive signals for rhythm tracking and automated beat-synchronization.
+
+Studied and analyzed BEL’s defense, Electronic Warfare (EW), avionics, and smart city architectures to understand large-scale system integration and edge deployment.
