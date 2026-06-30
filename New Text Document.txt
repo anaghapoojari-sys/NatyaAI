@@ -1,0 +1,8 @@
+my project is real time posture correction and semantic translation for bharatanatyam. as a dancer is dancing, it should give real time correctionb reagrding posture and body movements to make and also give the semantic meaning of the dancers action while doing bahinaya or nritya part 
+
+my project is real time posture correction and semantic translation for bharatanatyam. as a dancer is dancing, it should give real time correctionb reagrding posture and body movements to make and also give the semantic meaning of the dancers action while doing bahinaya or nritya part 
+i am using mediapipe for this and fastdtw as alignment model and google mediapipe face blendshapes for abhinaya part 
+rn i have only captured hasta mudras using the camer and the code mudra_data_collector.py has taken its coordinates and mudra_dataset.csv has been created with all coordinates
+give me full outline of what else i should do in order and how much time it should take (want to finish this asap)
+also i will be recording myself doing bharatanatyam as teacher and then as 4 students with mistakes to develop datset on my own (should i be dancing adavus or jathis or what)
+
