@@ -89,8 +89,12 @@ while cap.isOpened():
             pred_proba = clf.predict_proba(live_features)[0]
             max_proba = np.max(pred_proba)
             
+            
+            print("Prediction:", pred_class)
+            print("--------------------------------")
+            
             # Filter low confidence predictions to reduce fluttering/noise
-            if max_proba > 0.80:
+            if max_proba > 0.40:
                 current_prediction = pred_class.replace("_", " ").title()
                 prediction_confidence = max_proba * 100
             else:
