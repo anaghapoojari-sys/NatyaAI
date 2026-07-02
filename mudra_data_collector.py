@@ -88,7 +88,7 @@ with mp_hands.Hands(
                     right_detected = True
 
             # If spacebar is pressed, save data
-            if recording:
+            if recording and left_detected and right_detected:
                 # OPTIONAL STRATEGY: If it's a double-hand mudra but one hand drops out, don't record junk data
                 # You can remove this check if you are recording single-hand (Asamyuta) mudras
                 row = [current_mudra]
